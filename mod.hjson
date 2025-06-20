@@ -1,1 +1,6 @@
-name: als
+name: "als"
+displayName: "Advanced Liquid"
+author: "[#b3e99e]Shannaflenda[]"
+version: "0.0.1"
+minGameVersion: "136"
+hideBrowser: true
