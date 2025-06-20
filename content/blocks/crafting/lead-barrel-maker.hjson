@@ -2,7 +2,7 @@ name: "lead barrel maker"
 description: "can make barrel"
 type: GenericCrafter
 size: 2
-itemCapacity: 10
+itemCapacity: 50
 liquidCapacity: 0
 hasItems: true
 health: 900
