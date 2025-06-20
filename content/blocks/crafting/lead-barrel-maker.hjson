@@ -1,6 +1,6 @@
+type: GenericCrafter
 name: "lead barrel maker"
 description: "can make barrel"
-type: GenericCrafter
 size: 2
 itemCapacity: 50
 liquidCapacity: 0
@@ -22,12 +22,18 @@ outputItems: [
   lead-barrel/1
 ]
 requirements: [
-  copper/1
+  copper/120
+  graphite/60
+  silicon/60
+  metaglass/130
 ]
 research: {
-  parent: metaglass
+  parent: siliconSmelter
   requirements: [
-    copper/3000
+    copper/1200
+    graphite/600
+    silicon/600
+    metaglass/1300
   ]
 }
 dumpExtraLiquid: false
