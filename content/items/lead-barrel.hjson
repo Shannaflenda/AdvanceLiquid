@@ -3,5 +3,5 @@ color: d4bfff
 hardness: 0
 cost: 0
 research: {
-	parent: lead
+  parent: lead
 }
