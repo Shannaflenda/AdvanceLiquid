@@ -1,0 +1,7 @@
+name: "water inlead barrel"
+color: d4bfff
+hardness: 0
+cost: 0
+research: {
+	parent: lead-barrel
+}
