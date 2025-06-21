@@ -3,5 +3,5 @@ color: a8bdff
 hardness: 0
 cost: 0
 research: {
-	parent: lead-barrel
+  parent: lead-barrel
 }
